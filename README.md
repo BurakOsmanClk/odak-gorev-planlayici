@@ -6,7 +6,7 @@ bitiş tarihi, arama, filtreleme ve ilerleme takibi ile genişletir.
 
 > Web Geliştirme; JavaScript Eğitimi · Proje Çalışması · 2026
 
-🔗 **Canlı demo:** Netlify ile yayına alınmaya hazır (`netlify.toml` yapılandırılmış)  
+🔗 **Canlı demo:** https://lustrous-kitten-4bdad8.netlify.app  
 📦 **Kaynak kod:** https://github.com/BurakOsmanClk/odak-gorev-planlayici
 
 ![Uygulama ekran görüntüsü](docs/screenshots/02-ekleme.png)
