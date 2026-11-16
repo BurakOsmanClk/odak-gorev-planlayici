@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/FilterBar.tsx","./src/components/Modal.tsx","./src/components/StatsBar.tsx","./src/components/TaskForm.tsx","./src/components/TaskItem.tsx","./src/hooks/useLocalStorage.ts","./src/hooks/useTasks.ts","./src/interfaces/Task.ts","./src/pages/HomePage.tsx","./vite.config.ts"],"version":"5.8.3"}
